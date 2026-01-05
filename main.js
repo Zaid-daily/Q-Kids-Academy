@@ -30,8 +30,8 @@ function handleForm(formId, endpoint) {
 }
 
 /* USE TWO DIFFERENT FORMS IN FORMSPREE */
-handleForm("generalForm", "https://formspree.io/f/mojqvalp");
-handleForm("courseForm", "https://formspree.io/f/mwvkkzjk");
+handleForm("generalForm", "https://formspree.io/f/xgovdbnb");
+handleForm("courseForm", "https://formspree.io/f/xkogyaqd");
 
 function openForm(courseName) {
   const modal = document.getElementById("modal");
